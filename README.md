@@ -1,16 +1,64 @@
-# React + Vite
+# 🦷 Dental Clinic Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive **Dental Clinic Website** built using **React**, **Vite**, **Tailwind CSS v3**, and **Framer Motion**.  
+This project replicates a professional Nicepage-style UI with smooth animations and clean layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Responsive design (Mobile, Tablet, Desktop)
+- Animated hero section
+- Services section with stagger animations
+- Image & text overlay section
+- Animated statistics counter
+- Team showcase section
+- Call-to-action (CTA)
+- Appointment booking form
+- Smooth navigation with anchor links
+- Side drawer navbar (Nicepage style)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **Vite**
+- **Tailwind CSS v3**
+- **Framer Motion**
+- **React Intersection Observer**
+
+---
+
+
+## ⚙️ Installation & Run
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Dental-Clinic-Website.git
+cd Dental-Clinic-Website
+npm install
+npm run dev
+🎯 Purpose
+This project was built to:
+
+Practice modern frontend development
+
+Implement smooth UI animations
+
+Create production-ready React layouts
+
+Showcase skills for interviews & portfolio
+
+📸 Inspiration
+Design inspired by a Nicepage Dental Clinic template.
+
+📬 Contact
+If you like this project or want improvements, feel free to connect!
+
+
+ Commit README
+
+bash
+git add README.md
+git commit -m "Add professional README"
+git push
